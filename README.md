@@ -72,9 +72,9 @@
 
 <h3 align="left">Featured Projects:</h3>
 <ul>
-  <li><a href="https://github.com/Abhijit1Maity/url-shortner">🔗 URL Shortener</a> – Built with Node.js, Express, and MongoDB</li>
-  <li><a href="https://github.com/Abhijit1Maity/Portfolio-Website">Portfolio Website</a> – RESTful API using Express and MongoDB</li>
-  <li><a href="https://github.com/abhijit1maity/mern-blog">Food-delivery Website</a> – Full-featured blogging platform</li>
+  <li>🔗 <a href="https://github.com/Abhijit1Maity/url-shortner" target="_blank"><strong>URL Shortener</strong></a> – Built with Node.js, Express, and MongoDB</li>
+  <li>🌐 <a href="https://github.com/Abhijit1Maity/Portfolio-Website" target="_blank"><strong>Portfolio Website</strong></a> – Personal portfolio built using React and Tailwind</li>
+  <li>🍔 <a href="https://github.com/Abhijit1Maity/Food-delivery-App" target="_blank"><strong>Food Delivery App</strong></a> – MERN-based food ordering platform</li>
 </ul>
 
 ---
