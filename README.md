@@ -56,7 +56,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijit1maity&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijit1maity&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijit1maity&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
@@ -64,7 +64,31 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijit1maity&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+<p>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhijit1maity&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+<h3 align="left">Featured Projects:</h3>
+<ul>
+  <li><a href="https://github.com/abhijit1maity/url-shortener">🔗 URL Shortener</a> – Built with Node.js, Express, and MongoDB</li>
+  <li><a href="https://github.com/abhijit1maity/contact-api">📧 Contact API</a> – RESTful API using Express and MongoDB</li>
+  <li><a href="https://github.com/abhijit1maity/mern-blog">📝 MERN Blog</a> – Full-featured blogging platform</li>
+</ul>
+
+---
+
+<h3 align="left">Certifications & Achievements:</h3>
+<ul>
+  <li>✅ JavaScript & React Mastery – [Course Link / Certificate]</li>
+  <li>✅ Backend Development – [Course Link / Certificate]</li>
+  <li>🏆 100+ GitHub Contributions in a Month</li>
+</ul>
 
 ---
 
 <h3 align="center">Thanks for visiting! 🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Happy+Coding!;Keep+Building!;Open+to+Collaborations!"/>
+</p>
