@@ -62,10 +62,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijit1maity&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijit1maity&theme=tokyonight" alt="GitHub Streak"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=abhijit1maity&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 <p>
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhijit1maity&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph"/>
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=abhijit1maity&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
