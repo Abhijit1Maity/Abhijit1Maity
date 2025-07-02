@@ -81,9 +81,7 @@
 
 <h3 align="left">Certifications & Achievements:</h3>
 <ul>
-  <li>✅ JavaScript & React Mastery – [Course Link / Certificate]</li>
-  <li>✅ Backend Development – [Course Link / Certificate]</li>
-  <li>🏆 100+ GitHub Contributions in a Month</li>
+  <li><a href="https://github.com/Abhijit1Maity/Certificate" target="_blank">📜 View My Certifications Repository</a></li>
 </ul>
 
 ---
