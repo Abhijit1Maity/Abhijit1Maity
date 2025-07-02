@@ -72,7 +72,7 @@
 
 <h3 align="left">Featured Projects:</h3>
 <ul>
-  <li><a href="https://github.com/abhijit1maity/url-shortener">🔗 URL Shortener</a> – Built with Node.js, Express, and MongoDB</li>
+  <li><a href="https://github.com/Abhijit1Maity/url-shortner">🔗 URL Shortener</a> – Built with Node.js, Express, and MongoDB</li>
   <li><a href="https://github.com/abhijit1maity/contact-api">📧 Contact API</a> – RESTful API using Express and MongoDB</li>
   <li><a href="https://github.com/abhijit1maity/mern-blog">📝 MERN Blog</a> – Full-featured blogging platform</li>
 </ul>
