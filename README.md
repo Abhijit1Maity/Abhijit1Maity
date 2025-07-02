@@ -74,7 +74,7 @@
 <ul>
   <li><a href="https://github.com/Abhijit1Maity/url-shortner">🔗 URL Shortener</a> – Built with Node.js, Express, and MongoDB</li>
   <li><a href="https://github.com/Abhijit1Maity/Portfolio-Website">Portfolio Website</a> – RESTful API using Express and MongoDB</li>
-  <li><a href="https://github.com/abhijit1maity/mern-blog">📝 MERN Blog</a> – Full-featured blogging platform</li>
+  <li><a href="https://github.com/abhijit1maity/mern-blog">Food-delivery Website</a> – Full-featured blogging platform</li>
 </ul>
 
 ---
